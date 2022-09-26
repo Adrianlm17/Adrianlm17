@@ -9,7 +9,7 @@
 <br>
 
 <h3 align="center">
-  <b> Futuro programador en proceso </b>
+  <b> Programador en proceso </b>
 </h3>
 
 <br>
