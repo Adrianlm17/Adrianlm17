@@ -1,7 +1,5 @@
 # 👋 Hola, me llamo Adrián 👋
 
----
-
 ![](https://staffrh.hiringroom.com/data/accounts/staffrh/vacancies/8b47eccebeafd1eb431f28688267ce9b.gif)
 
 ## Programador en proceso
