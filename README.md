@@ -5,7 +5,7 @@
 ## Programador en proceso
 
 ```
-- 🧠 Actualmente estoy grado superior DAW Intensivo.
+- 🧠 Actualmente estoy en un grado superior DAW Intensivo.
 - 💡 Soy muy creativo, curioso y trabajador
 - 🧑‍🤝‍🧑 Me gusta trabajar en equipo
 - 💬 Tengo conocimientos sobre el entorno Daily
