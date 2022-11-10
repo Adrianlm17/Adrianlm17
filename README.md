@@ -20,6 +20,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-00000F?style=for-the-badge&logo=mongodb&logoColor=green)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+## Contacto
+
+📧 **adrianlomu2004@gmail.com**
+
 ---
 
 ![](https://gpvc.arturio.dev/Adrianlm17)
