@@ -5,8 +5,8 @@
 ## Programmer in progress
 
 ```
-- 🧠 I am currently studying for an [Intensive DAW degree](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-web.html)
-  - 📜 I have a CFGM in [Microcomputer Systems and Networks](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/sistemas-microniformaticos-redes.html)
+- 🧠 I am currently studying for an Intensive DAW degree
+  - 📜 I have a CFGM in Microcomputer Systems and Networks
 
 - 💡 I am very creative, curious and hard-working
 - 🧑‍🤝‍🧑 I can work both in a team and individually or if you like more we can always do a pair programming
