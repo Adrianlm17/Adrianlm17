@@ -31,6 +31,8 @@
 ![VSCode](https://img.shields.io/badge/VSCode-DFF4FC?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 ![Trello](https://img.shields.io/badge/Trello-DFF4FC?style=for-the-badge&logo=trello&logoColor=blue)
 ![Slack](https://img.shields.io/badge/Slack-AA5CE0?style=for-the-badge&logo=slack&logoColor=FFF5B7)
+![Eclipse](https://img.shields.io/badge/Eclipse-25169F?style=for-the-badge&logo=eclipse&logoColor=DACF96)
+![Discord](https://img.shields.io/badge/Discord-25169F?style=for-the-badge&logo=discord&logoColor=DACF96)
 
 
 ## Contact
