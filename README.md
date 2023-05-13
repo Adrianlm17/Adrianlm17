@@ -13,7 +13,7 @@
 - 💬 I count on knowledge Daily
 ```
 
-## Languages
+## Languages & Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -25,10 +25,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-00000F?style=for-the-badge&logo=mariadb&logoColor=E2A26C)
 ![Shell](https://img.shields.io/badge/Shell-9EF796?style=for-the-badge&logo=shell&logoColor=black)
-
-
-## Tools
-
+![PostgresQL](https://img.shields.io/badge/PostgresQL-2C4DE4?style=for-the-badge&logo=postgresql&logoColor=black)
+![Odoo](https://img.shields.io/badge/Odoo-A746F7?style=for-the-badge&logo=odoo&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VSCode-DFF4FC?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 ![Git](https://img.shields.io/badge/GIT-FF9C49?style=for-the-badge&logo=git&logoColor=DACF96)
 ![Trello](https://img.shields.io/badge/Trello-DFF4FC?style=for-the-badge&logo=trello&logoColor=blue)
